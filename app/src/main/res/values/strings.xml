@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Счёт хоккей</string>
+    <string name="reset">Сброс</string>
+    <string name="goal">Гол</string>
+    <string name="match">Хоккей</string>
+    <string name="score_1" translatable="false">0</string>
+    <string name="score_2" translatable="false">0</string>
+    <string name="colon" translatable="false">:</string>
+    <string name="country_1">Россия</string>
+    <string name="country_2">Канада</string>
+    <string name="todo" translatable="false">TODO</string>
+
+</resources>
